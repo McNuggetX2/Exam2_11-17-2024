@@ -22,3 +22,9 @@ Issue 5 branch created.
 Issue 5 branch files uploaded.
 Issue 5 branch merged.
 Issue 5 completed.
+
+Cole McCune
+901288703
+Cm39384@georgiasouthern.edu
+https://github.com/McNuggetX2/Exam2_11-17-2024
+https://github.com/McNuggetX2/Exam2_11-17-2024.git
